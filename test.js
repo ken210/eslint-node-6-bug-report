@@ -1,5 +1,5 @@
 const path = require('path');
 
 module.exports = {
-  path: path.join(__dirname, 'test.js')
+  path: path.join(__dirname, 'test.js'),
 };
